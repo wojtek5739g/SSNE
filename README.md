@@ -1,2 +1,2 @@
 ## AI Neural Network
-Small projects regarding different types of NN models
+Projects regarding various types of NN models
